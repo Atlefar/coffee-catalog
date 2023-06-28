@@ -1,0 +1,11 @@
+.btn {
+    all: unset;
+    background-color: #D98046;
+    height: 1.7rem;
+    width: 1.8rem;
+    border-radius: 30%;
+    font-size: 1.3rem;
+    color: #fff;
+    font-weight: lighter;
+    text-align: center;
+}

@@ -1,0 +1,19 @@
+.container {
+    min-height: 100vh;
+    background: linear-gradient(
+        to top,
+        #0c0f14,
+        #151318,
+        #1d171a,
+        #151318,
+        #0c0f14
+        );
+        margin-top: -1px;
+        padding: 1.8rem 0.5rem 6rem 0.5rem;
+        display: grid;
+        align-items: center;
+        justify-items: center;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 1.5rem;
+        grid-column-gap: 0;
+    }

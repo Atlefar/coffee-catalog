@@ -1,0 +1,31 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 4rem;
+    background-color: #0C0F14;
+    margin-top: -1px;
+    box-shadow: 0px 4px 24px rgba(0, 0, 0, 0.25);
+}
+
+.container__input {
+    display: flex;
+    align-items: center;
+    padding-left: 1rem;
+    height: 3.3rem;
+    width: 87%;
+    border-radius: 16px;
+    border: 1px solid #0C0F14;
+    background: rgba(255, 255, 255, 0.08);
+}
+
+.search__input {
+    all: unset;
+    color: #fff;
+    padding-left: 1rem;
+    width: 14rem;
+} 
+
+.search__icon {
+    height: 1.4rem;
+} 

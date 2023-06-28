@@ -1,0 +1,45 @@
+.header {
+    background-color: #0C0F14;
+    height: 12rem;
+}
+
+.heading {
+    font-size: 1.8rem;
+    font-weight: 400;
+    color: #FFFFFF;
+    margin-left: 2rem;
+    padding-top: 1.5rem;
+}
+
+.heading__coffee {
+    color: #D98046;
+    font-weight: 600;
+}
+
+.container__buttons {
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu__btn {
+    padding-top: 2rem;
+    padding-left: 1.3rem;
+}
+
+.icon {
+    border-radius: 35%;
+    height: 2.7rem;
+    width: 2.7rem;
+}
+
+.profile__btn {
+    padding-top: 2rem; 
+    padding-right: 2rem;
+}
+
+.avatar {
+    border-radius: 35%;
+    height: 2.7rem;
+    width: 2.7rem;
+    border: 3px solid #1F242A;
+}

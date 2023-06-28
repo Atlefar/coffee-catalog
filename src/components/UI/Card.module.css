@@ -1,0 +1,71 @@
+.card {
+    position: relative;
+    padding-top: 0.5rem;
+    width: 9rem;
+    border-radius: 10%;
+    background: linear-gradient(
+        162.19deg,
+        rgba(255, 255, 255, 0.1) 0%, 
+        rgba(255, 255, 255, 0.03) 100%);
+}
+
+.image {
+    height: auto;
+    width: 8rem;
+    border-radius: 10%;
+    display: block;
+    margin: 0 auto 1rem auto;
+}
+
+.rating {
+    position: absolute;
+    top: 0.4rem;
+    right: 0.5rem;
+    width: 2.5rem;
+    background-color: #3d3a3d;
+    border-bottom-left-radius: 50%;
+    border-top-right-radius: 50%;
+    display: flex;
+    opacity: 70%;
+}
+
+.rating p {
+    color: #fff;
+    text-align: center;
+    font-size: 0.9rem;
+}
+
+.star__icon {
+    height: 0.7rem;
+}
+
+.currency {
+    color: #D98046;
+}
+
+.bottom__container {
+    display: flex;
+    align-items: flex-center;
+    justify-content: space-between;
+    margin: 1rem 0.6rem 0.7rem 0.6rem;
+}
+
+h2 {
+    color: #fff;
+    font-size: 1.3rem;
+    font-weight: 500;
+}
+
+h3 {
+    color: #fff;
+    font-size: 1rem;
+    font-weight: 500;
+    margin-left: 0.5rem;
+    margin-right: 0.5rem;
+}
+
+p {
+    color: grey;
+    font-weight: 500;
+    margin-left: 0.5rem;
+}
